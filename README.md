@@ -5,4 +5,4 @@ A repository for classifying voices whether it's male or female.
 
 ![How_to_use](gifs/HowToUse.gif)
 
-> This GIF demonstrates how to use the code to record your voice and classify the audio file whether it's male or female.
+> This GIF demonstrates the cells that you have to run to be able to record your voice and classify the audio file whether it's male or female.
